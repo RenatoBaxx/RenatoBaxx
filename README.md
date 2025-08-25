@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [Scania Latim America](https://www.scania.com/br/pt/home.html)
 
-- 🌱 I’m currently learning **Java, RUBY, SQL, C++, Android**
+- 🌱 I’m currently learning **GO(Golang), C++, Android**
 
 - 🪚 I’m currently I'm working too [Havic Host](https://havichostbrasil.com.br/)
 
-- 💬 Ask me about **React, JavaScript, PHP, C, Python, C#, React Native, NextJS, MySQL, PostgreSQL, MongoDB, TypeScript**
+- 💬 Ask me about **React, JavaScript, PHP, C, Python, C#, React Native, NextJS, MySQL, PostgreSQL, MongoDB, TypeScript, Java**
 
 - 📫 How to reach me **renatobaxmannjr@gmail.com**
 
